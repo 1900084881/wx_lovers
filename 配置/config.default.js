@@ -41,11 +41,11 @@ module.exports = appInfo => {
 
   // 公众号配置
   config.wx = {
-    appId: 'wx6a908ab36533ea40',
-    appSecret: '76d09eb43886a44cf2bb993c99206934',
+    appId: 'wx633863975a1621c8',
+    appSecret: 'c596d26465d90d5a1117e19766969919',
     token: 'junetext',
-    template_id: 'z864JohHWpBSFdsoz-6lVx8r0kS_v0LIYYJ7TEzrupg', // 推送的模板id
-    user: 'wx6a908ab36533ea40', // 并非推送用户, 填appid就行了
+    template_id: '5176KfGVwhL4kSKp7ec11359Xx1tmz3MN74rpldLmhs', // 推送的模板id
+    user: 'obZwy6X7MN6xf7-j_jNjATRc5x0Y', // 并非推送用户, 填appid就行了
   };
 
   config.userData = {
